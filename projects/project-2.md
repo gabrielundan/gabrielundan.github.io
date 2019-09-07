@@ -1,18 +1,26 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
-title: Vacay
-permalink: projects/vacay
+image: images/stronghold.jpg
+title: FIRST Robotics Competition (FRC)
+permalink: projects/robotics
 # All dates must be YYYY-MM-DD format!
-date: 2015-12-15
+date: 2016-01-01
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
+  - Java
+  - Git
   - GitHub
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+summary: Participation in FRC as lead programmer.
 ---
+
+## What is FRC
+
+## My Role
+
+## What I Learned
+
+## Source Code
+The source code is from a private repository so I am unable to freely share the code I worked on. 
 
 <img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
 
