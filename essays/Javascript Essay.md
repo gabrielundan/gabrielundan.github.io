@@ -5,7 +5,7 @@ title: Javascript, Java for Short /s
 # All dates must be YYYY-MM-DD format!
 date: 2019-09-06
 labels:
-  - Engineering
+  - Javascript
 ---
 
 <img class="ui tiny right spaced image" src="../images/degree_difficulty.jpg">*Difficulty: a thing that is hard to accomplish, deal with, or understand.*
