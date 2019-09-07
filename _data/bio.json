@@ -24,6 +24,11 @@
         "network": "linkedin",
         "username": "gundan",
         "url": "http://linkedin.com/in/gabriel-undan-553309192/"
+      },
+      {
+        "network": "email",
+        "username": "",
+        "url": "gundan@hawaii.edu"
       }
     ]
   },
