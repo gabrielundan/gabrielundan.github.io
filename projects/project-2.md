@@ -18,12 +18,16 @@ FIRST Robotics Competitions involve some game that teams must build their robot 
 
 ## My Role
 
+I was in the 
+
 ## What I Learned
+
+Prior to this experience, my only programming experience was programming in an AP Computer Science highschool class. When there were programming assignments, it was never more than a few Java classes working together to complete the assignment. Programming the robot however, 
 
 ## Source Code
 The source code is from a private repository so I am unable to freely share the code I worked on. 
 
-<img class="ui medium right floated rounded image" src="../images/first-stronghold.png">
+<img class="ui medium right floated rounded image" src="../images/first-stronghold.jpg">
 
 <img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
 
