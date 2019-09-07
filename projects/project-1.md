@@ -13,9 +13,9 @@ labels:
 summary: I maintain and update UHM's OpenVAS site at https://openvas.hawaii.edu. (Not accessible outside of ITC network).
 ---
 
-<img height="500" width="500" src="https://gabrielundan.github.io/images/openvas-login.PNG">*Login page*
-<img height="500" width="500" src="https://gabrielundan.github.io/images/openvas-batchscan.PNG">*Example of batchscan page where a scan is created*
-<img height="500" width="500" src="https://gabrielundan.github.io/images/openvas-results.PNG">*Example of results page showing scan results*
+<img height="500" width="800" src="https://gabrielundan.github.io/images/openvas-login.PNG">*Login page*
+<img height="500" width="800" src="https://gabrielundan.github.io/images/openvas-batchscan.PNG">*Example of batchscan page where a scan is created*
+<img height="500" width="800" src="https://gabrielundan.github.io/images/openvas-results.PNG">*Example of results page showing scan results*
 
 OpenVAS is short for "Open Vulnerability Assessment Scanner". It can be installed on for any vulnerabilities such as commonly used passwords, open ports and the use of outdated/vulnerable versions of applications. 
 
