@@ -22,7 +22,7 @@ The first statement shows that an array plus an array returns an empty string. T
 
 In most of the languages I have used before, attempting to do anything like this causes some sort of type error or requires methods to be used. The fact that Javascript lets you do this is weird to me. Especially since some of the outputs don't quite make sense. For instance, I think it makes more sense to return a merged array when adding two arrays, instead of combining their contents into a single string and returning that. 
 
-In spite of these weird quirks, I think Javascript could end up being a useful and flexible language to work with. I would like to learn it well since I could apply that experience to maintain a website I am in charge of for work.  
+In spite of these weird quirks, I think Javascript could end up being a useful and flexible language to work with. I would like to learn it to a sufficient level since I could apply that experience to help maintain a website I am oversee for work. Learning it could also teach me the necessary user experience skills to craft a comfortable user interface. 
 
 I have yet to write much Javascript that is unique to the language, so it is hard to say if I like or dislike the language overall. Most of what we have done, including the Workout of the Day (WOD) exercises have just been basic exercises that could have been done similarly in most other languages.
 
