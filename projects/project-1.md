@@ -15,6 +15,12 @@ summary: I maintain and update UHM's OpenVAS site at https://openvas.hawaii.edu.
 
 OpenVAS is short for "Open Vulnerability Assessment Scanner". It is typically installed on a Linux machine and can then be used to scan other computers for any vulnerabilities such as commonly used passwords, open ports and the use of outdated/vulnerable versions of applications. Once the scan is finished, the users are able to retrieve a scan showing what was found to be vulnerable on the target machine and to what severity, allowing users to further harden their systems. 
 
+Due to policy, some workers may be required to scan their machines to test their resilience against possible attacks. The scanner tool chosen by the university was OpenVAS.
+
+The collective OpenVAS package includes its own user interface to start and manage scans, manage users, and view reports, but it can be hard to use. So, an interface written in PHP was created to allow ease of creating scans, viewing reports, and managing users. This interface is located at https://openvas.hawaii.edu. However, this website is only reachable from the Information Technology Center's network. 
+
+I did not create nor was involved in the creation of this interface. Instead, I have been tasked with maintaining its code whenever something may break or if a new feature must be added. Just recently I added 
+
 Micromouse is an event where small robot “mice” solve a 16 x 16 maze.  Events are held worldwide.  The maze is made up of a 16 by 16 gird of cells, each 180 mm square with walls 50 mm high.  The mice are completely autonomous robots that must find their way from a predetermined starting position to the central area of the maze unaided.  The mouse will need to keep track of where it is, discover walls as it explores, map out the maze and detect when it has reached the center.  having reached the center, the mouse will typically perform additional searches of the maze until it has found the most optimal route from the start to the center.  Once the most optimal route has been determined, the mouse will run that route in the shortest possible time.
 
 For this project, I was the lead programmer who was responsible for programming the various capabilities of the mouse.  I started by programming the basics, such as sensor polling and motor actuation using interrupts.  From there, I then programmed the basic PD controls for the motors of the mouse.  The PD control the drive so that the mouse would stay centered while traversing the maze and keep the mouse driving straight.  I also programmed basic algorithms used to solve the maze such as a right wall hugger and a left wall hugger algorithm.  From there I worked on a flood-fill algorithm to help the mouse track where it is in the maze, and to map the route it takes.  We finished with the fastest mouse who finished the maze within our college.
@@ -35,7 +41,7 @@ byte ADCRead(byte ch)
 
 You can learn more at the [UH Micromouse Website](http://www-ee.eng.hawaii.edu/~mmouse/about.html).
 
-<img height="500" width="800" src="https://gabrielundan.github.io/images/openvas-login.PNG">*Login page*
-<img height="500" width="800" src="https://gabrielundan.github.io/images/openvas-batchscan.PNG">*Example of batchscan page where a scan is created*
-<img height="500" width="800" src="https://gabrielundan.github.io/images/openvas-results.PNG">*Example of results page showing scan results*
+<img height="600" width="1000" src="https://gabrielundan.github.io/images/openvas-login.PNG">*Login page*
+<img height="600" width="1000" src="https://gabrielundan.github.io/images/openvas-batchscan.PNG">*Example of batchscan page where a scan is created*
+<img height="600" width="100" src="https://gabrielundan.github.io/images/openvas-results.PNG">*Example of results page showing scan results*
 
