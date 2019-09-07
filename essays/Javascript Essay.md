@@ -1,9 +1,9 @@
 ---
 layout: essay
 type: essay
-title: The difficult things will always be difficult
+title: Javascript, Java for Short /s
 # All dates must be YYYY-MM-DD format!
-date: 2016-02-06
+date: 2019-09-06
 labels:
   - Engineering
 ---
