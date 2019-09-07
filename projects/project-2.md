@@ -14,6 +14,7 @@ summary: Participation in FRC as lead programmer.
 ---
 
 ## What is FRC
+FIRST Robotics Competitions involve some game that teams must build their robot around. In 2016, the game was
 
 ## My Role
 
@@ -21,6 +22,8 @@ summary: Participation in FRC as lead programmer.
 
 ## Source Code
 The source code is from a private repository so I am unable to freely share the code I worked on. 
+
+<img class="ui medium right floated rounded image" src="../images/first-stronghold.png">
 
 <img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
 
