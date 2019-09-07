@@ -16,7 +16,7 @@ This class isn't my first experience using Javascript, but instead in high schoo
 
 After completing the ES6 modules and the Javascript basics, it’s obvious that Javascript diverges from the pack of languages I’ve learned, including the ones I’m the most accustomed to -- Java and C. Parts of the language such as function nesting and  destructuring are among some properties that seem weird or hard to read to me. There are other unusual things that the language lets you do, such as what is shown below.
 
-<img src="https://gabrielundan.github.io/images/js.PNG">*Taken from Gary Bernhardt from CodeMash 2012 lightning talk, Wat.*
+<img src="https://gabrielundan.github.io/images/js.PNG">*Lightning talk "Wat" by Gary Bernhardt from CodeMash 2012.*
 
 The first statement shows that an array plus an array returns an empty string. The next two show an array plus an object returns an object, but the operands in reverse order returns something different, a 0. The result of an addition should be the same, or at least similar, if you reverse the operands. And lastly, an object plus an object returns not a number (NaN). 
 
