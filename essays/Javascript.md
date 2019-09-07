@@ -10,7 +10,7 @@ labels:
 
 ## My First Experience Using Javascript
 
-This class isn't my first experience using Javascript, but instead in high school where I took an AP Computer Science class. The class was primarily Java but there were times when other languages were explored, one of which was Javascript. However, Javascript not being the main focus of the course, it was very brief section and mainly consisting of basics, involving nothing that was specific to Javascript. Because of this, I didn't have the idea that it differs quite significantly from Java, and not just because of the type of applications they are used to create.
+This class isn't my first experience using Javascript, but instead in high school where I took an AP Computer Science class. The class was primarily Java but there were times when other languages were explored, one of which was Javascript. However, Javascript not being the main focus of the course, it was very brief section and mainly consisting of basics, lacking anything specific Javascript aside from JSON. Because of this, I didn't have the idea that it differs quite significantly from Java, and not just because of the type of applications they are used to create.
 
 ## Javascript So Far
 
