@@ -10,19 +10,21 @@ labels:
 
 ## My First Experience Using Javascript
 
-This class isn't my first experience using Javascript, but instead in high school where I took an AP Computer Science class. The class was primarily Java but there were times when other languages were explored, one of which was Javascript. However, Javascript not being the main focus of the course, it was very brief section and mainly consisting of basics, none of which were specific to Javascript. Because of this, I didn't really get the sense that it differs quite significantly from Java.
+This class isn't my first experience using Javascript, but instead in high school where I took an AP Computer Science class. The class was primarily Java but there were times when other languages were explored, one of which was Javascript. However, Javascript not being the main focus of the course, it was very brief section and mainly consisting of basics, involving nothing that was specific to Javascript. Because of this, I didn't have the idea that it differs quite significantly from Java, and not just because of the type of applications they are used to create.
 
 ## Javascript So Far
 
-After completing the ES6 modules and the Javascript basics, it’s obvious that Javascript diverges from the pack of languages I’ve learned, including the ones I’m the most accustomed to - Java and C. Attributes of the language such as function nesting, destructuring are among some properties that seem weird or hard to read to me, and I think I would end up preferring alternative ways of accomplishing the same thing. However, as time passes and I see their uses, I would probably get used to reading and using them
+After completing the ES6 modules and the Javascript basics, it’s obvious that Javascript diverges from the pack of languages I’ve learned, including the ones I’m the most accustomed to - Java and C. Parts of the language such as function nesting and  destructuring are among some properties that seem weird or hard to read to me. There are other unusual things that the language lets you, such as what is shown below.
 
-## The Weird
-
-Being a programmer, you 
-
-Along the way you see stuff like this:
 <img src="https://gabrielundan.github.io/images/js.PNG">*Taken from Gary Bernhardt from CodeMash 2012 lightning talk, Wat.*
 
+An array plus an array is an empty string. An array plus an object is just an object. The result of an addition should be the same if you reverse the operands, but that results in 0. And lastly, an object plus an object is not a number. 
+
+However, as time passes and I see their uses I could end up enjoying these features that are unique to Javascript. 
+
+I have yet to write much Javascript that is unique to the language, so it is hard to say if I like or dislike the language overall. Most of what we have done, including the Workout of the Day (WOD) exercises have just been basic exercises that could have been done similarly in most other languages.
+
+## Workout of the Day
 
 
 ## In the context of programming
