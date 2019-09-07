@@ -14,7 +14,7 @@ summary: Participation in FRC as lead programmer.
 ---
 
 ## What is FRC
-FIRST Robotics Competitions involve some game that teams must build their robot around. In 2016, the game was
+FIRST Robotics Competitions involve some game that teams must build their robot around. In 2016, the game was FIRST Stronghold where the game was centered around a team's robot being able to easily traverse the field obstacles and shoot accurately into the opposing alliance's goal. 
 
 ## My Role
 
