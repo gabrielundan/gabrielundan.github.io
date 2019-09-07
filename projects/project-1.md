@@ -41,5 +41,5 @@ IPs have been blurred for privacy purposes.
 
 <img height="600" width="1000" src="https://gabrielundan.github.io/images/openvas-login.PNG">*Login page*
 <img height="600" width="1000" src="https://gabrielundan.github.io/images/openvas-batchscan.PNG">*Example of batchscan page where a scan is created*
-<img height="600" width="100" src="https://gabrielundan.github.io/images/openvas-results.PNG">*Example of results page showing scan results*
+<img height="600" width="1000" src="https://gabrielundan.github.io/images/openvas-results.PNG">*Example of results page showing scan results*
 
