@@ -18,7 +18,7 @@ After completing the ES6 modules and the Javascript basics, it’s obvious that 
 
 <img src="https://gabrielundan.github.io/images/js.PNG">*Taken from Gary Bernhardt from CodeMash 2012 lightning talk, Wat.*
 
-The first two statements show an array plus an array returns an empty string, and an array plus an object returns an object. The result of an addition should be the same if you reverse the operands, yet that returns a 0. And lastly, an object plus an object is not a number. 
+The first statement shows that an array plus an array returns an empty string. The next two show an array plus an object returns an object, but the operands in reverse order returns something different, a 0. The result of an addition should be the same, or at least similar, if you reverse the operands. And lastly, an object plus an object returns not a number (NaN). 
 
 In most of the languages I have used before, attempting to do anything like this causes some sort of type error or requires methods to be used. The fact that Javascript lets you do this is weird to me. Especially since some of the outputs don't quite make sense. For instance, I think it makes more sense to return a merged array when adding two arrays, instead of combining their contents into a single string and returning that. 
 
