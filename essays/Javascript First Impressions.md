@@ -8,7 +8,7 @@ labels:
   - Javascript
 ---
 
-<img src="../images/degree_difficulty.jpg">*Difficulty: a thing that is hard to accomplish, deal with, or understand.*
+<img src="https://gabrielundan.github.io/images/js.PNG">*Taken from Gary Bernhardt from CodeMash 2012 lightning talk.*
 
 ## My first time using Javascript
 
