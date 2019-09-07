@@ -22,13 +22,13 @@ The collective OpenVAS package includes its own user interface to start and mana
 
 ## My Role
 
-I was not involved with the creation of this interface. Instead, I have been tasked with maintaining its code the server it runs on whenever something may break or if a new feature must be added. For instance just recently I was tasked with getting the interface to communicate with two seperate scanners and have them balance the workload since many scans need to run during this time of year. 
+I was not involved with the creation of this interface. Instead, I have been tasked with maintaining its code the server it runs on whenever something may break or if a new feature must be added. For instance just recently I was tasked with getting the interface to communicate with two seperate scanners and have them balance the workload since many scans need to run during this time of year. For each change I'm expected to implement, I must first test it on a development server and confirm it works before copying the same thing to the production server 
 
 I am also tasked to do a rewrite and improve this interface since the code was not very well put together by the original developer. Both the PHP code and the design were poor. Comments were scarce, the naming of variables was confusing and the database design could be better. 
 
 ## What I Learned
 
-Throughout this experience of maintaining openvas.hawaii.edu website I've learned some PHP, how to troubleshoot and configure servers, and more Linux skills. Prior to taking up this project I had little experience working with servers, Linux, and PHP.  
+Throughout this experience, I've learned some PHP, how to troubleshoot and configure servers, and more Linux skills. Prior to taking up this project I had little experience working with servers, Linux, and PHP. 
 
 Documentation and writing clean code is very important. Taking some time to take note of what is occurring in regards to code can be extremely helpful and decrease the time it takes to conduct a code review. 
 
