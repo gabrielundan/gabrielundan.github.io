@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Gabriel Undan",
-    "label": "Student and Information Security Assistant",
+    "label": "Student",
     "picture": "https://techfolios.github.io/images/default_profile.png",
     "email": "gundan@hawaii.edu",
     "phone": "",
     "website": "https://gabrielundan.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii at Manoa. I expect to graduate in 2021. I am also currently working as an Information Security Assistant for this same university",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii at Manoa. I expect to graduate in 2021.",
     "location": {
       "address": "",
       "postalCode": "96707",
@@ -17,41 +17,34 @@
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
+        "username": "gabrielundan",
         "url": "http://github.com/changeme"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
-      },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "username": "gundan",
+        "url": "http://linkedin.com/in/gabriel-undan-553309192/"
       }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
-      "keywords": [
-        "Arduino",
-        "TI MSP430"
-      ]
-    },
-    {
-      "name": "data mining",
+      "name": "Software engineering",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "Back-end development",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Threat and vulnerability analysis",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Artificial intelligence",
       "keywords": [
       ]
     }
@@ -73,20 +66,23 @@
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
-        "MacOS",
+        "Windows",
         "Ubuntu",
+        "CentOS", 
         "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "IntelliJ",
+        "Visual Studio Code",
+        "FTK Toolkit",
+        "WireShark"
       ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Computer Science (expected 2021)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2019-08-26",
       "endDate": "Present",
       "gpa": "",
       "courses": [
@@ -95,27 +91,16 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
+      "company": "UH Manoa Information Technology Services",
+      "position": "Information Security Assistant",
+      "website": "https://www.hawaii.edu/infosec/",
+      "startDate": "2019-05-20",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "Support the Cheif Information Security Officer and their department.",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
-      ]
-    },
-    {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
-      "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Update, configure and maintain servers",
+        "Web application creation and maintenance",
+        "Network monitoring"
       ]
     }
   ],
