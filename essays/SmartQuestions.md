@@ -24,6 +24,18 @@ The poster concisely states what they want to say when they mention "I want to m
 In this scenario, other users answer with the git commands that would accomplish what the poster originally wanted (`git diff --name-status firstBranch..branchToCompareTo`).
 
 ## Mediocre Example
-This question about [a programming error.](https://stackoverflow.com/questions/55690279/error-expected-or-before-numeric-constant)
+This question about [a programming error in C++.](https://stackoverflow.com/questions/55690279/error-expected-or-before-numeric-constant)
 
-The
+The poster of this question mentions that there's an error when attempting to compile in their code, "expected ';' ',' or ')'". They also post a small, incomplete segment of their code, shown below:
+
+```cpp
+class functions{
+public:
+int m[5];
+int c=0;
+stack_x mem(5);
+```
+
+This error be from somewhere else in their code, but they chose not to post all of it. Another user even asked "Where is curly bracket `};` that closes the class declaration?" to which the poster replied "already written but in the very end of the class, i just posted the part which making the error." 
+
+Other users have submitted answers but in both cases the poster replied back saying that neither suggestion fixed their problem. Had the original poster displayed their entire C++ file, other users may have been able to quickly and accurately assess the problem and present a solution. Instead, anyone willing enough to answer this question will have to extrapolate from what little code is available.
