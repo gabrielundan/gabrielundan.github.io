@@ -21,7 +21,7 @@ An example of a good question asked on StackOverflow is this one asking about [f
 
 The poster concisely states what they want to say when they mention "I want to merge two branches that have been separated for a while and wanted to know which files have been modified." They also mention, link, and talk about an external resource they found and used, showing that they attempted some form of troubleshooting. However, what they found did not quite possess the desired functionality, which led them to starting their StackOverflow post. 
 
-In this scenario, other users answer with the git commands that would accomplish what the poster originally wanted 
+In this scenario, other users answer with the git commands that would accomplish what the poster originally wanted: 
 
 `git diff --name-status firstBranch..branchToCompareTo`
 
