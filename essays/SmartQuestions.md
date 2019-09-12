@@ -17,8 +17,10 @@ A good question is methodical. They are typically constructive and show that the
 On the other hand, questions that are presented in a vague manner, lack background information, or appear as though the asker did not take any troubleshooting steps prior steps, would deter others form helping. Take for instance the question "How do I add additional attributes to a table?" Disregarding the fact that a Google search could have lead the user to an answer, the question is also lacking information such as what type of database they are using or how they are interfacing with it. The user could even be asking a question about modifying a table on a user interface. Someone answering this question would need more information to construct an accurate reply, if they wanted to.
 
 ### Methodical Example
-An example of a good question asked on StackOverflow is this one asking about finding [file differences between two Git branches.](https://stackoverflow.com/questions/822811/showing-which-files-have-changed-between-two-revisions) 
+An example of a good question asked on StackOverflow is this one asking about [finding file differences between two Git branches.](https://stackoverflow.com/questions/822811/showing-which-files-have-changed-between-two-revisions) 
 
-In this 
+The poster concisely states what they want to say when they mention "I want to merge two branches that have been separated for a while and wanted to know which files have been modified." They also mention, link, and talk about an external resource they found and used, showing that they attempted some form of troubleshooting. However, what they found did not quite possess the desired functionality, which led them to starting their StackOverflow post. 
+
+In this scenario, other users answer with the ideal git command to use (`git diff --name-status firstBranch..branchToCompareTo`).
 
 ## Mediocre Example
