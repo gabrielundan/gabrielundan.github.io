@@ -30,10 +30,10 @@ The poster of this question mentions that there's an error when attempting to co
 
 ```cpp
 class functions{
-public:
-int m[5];
-int c=0;
-stack_x mem(5);
+  public:
+    int m[5];
+    int c=0;
+    stack_x mem(5);
 ```
 
 This error be from somewhere else in their code, but they chose not to post all of it. Another user even asked "Where is curly bracket `};` that closes the class declaration?" to which the poster replied "already written but in the very end of the class, i just posted the part which making the error." 
