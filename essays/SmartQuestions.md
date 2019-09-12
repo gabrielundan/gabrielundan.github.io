@@ -24,3 +24,6 @@ The poster concisely states what they want to say when they mention "I want to m
 In this scenario, other users answer with the git commands that would accomplish what the poster originally wanted (`git diff --name-status firstBranch..branchToCompareTo`).
 
 ## Mediocre Example
+This question about [a programming error.](https://stackoverflow.com/questions/55690279/error-expected-or-before-numeric-constant)
+
+The
