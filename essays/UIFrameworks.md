@@ -25,4 +25,6 @@ However, I haven't had the smoothest experience with learning how to use Semanti
 
 Though it cannot be helped, I dislike that the majority of tags end up being a `<div>`. For me, this makes it harder to understand what is happening at a glance since all the code seems to blend together incoherently, especially without proper formatting. 
 
-Comparing this experience against debugging code, I would rather debug code.
+Comparing this experience against debugging code, I would rather do the debugging. No matter how tedious the task may be, there is a clear and straightforward way to reach the end goal: stepping through the code and verifying it does what was intended until a deviation is detected. Then it's just applying a fix from there. When working with Semantic, it can feel like a guessing game when checking the documentation and attempting to find the combination of CSS classes that best satisfies my use case. 
+
+Though this was an unpleasant experience, I have heard that other CSS frameworks such as Bootstrap are more beginner-friendly and have a much larger community following, leading to an abundance of available tutorials and more robust documentation. Perhaps learning an easier CSS framework on the side will help me get familiar with creating webpages and make the transition to Semantic much quicker and more comfortable.
