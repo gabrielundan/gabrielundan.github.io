@@ -10,7 +10,7 @@ labels:
   - Semantic UI
 ---
 
-| <img src="https://i.redd.it/bptzx7ur4uj11.jpg" style="align: center;"> | 
+| <img src="https://i.redd.it/bptzx7ur4uj11.jpg" style="align: center; width: 90%; border: 4px solid;"> | 
 |:--:| 
 | *My current feelings of UI design* |
 
