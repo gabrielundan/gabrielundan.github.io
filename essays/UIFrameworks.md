@@ -23,4 +23,6 @@ I was excited upon first hearing that we were to learn a CSS framework, thus str
 
 However, I haven't had the smoothest experience with learning how to use Semantic. When trying to replicate the layout of a pre-existing website, I find myself unsure of what the best ways to imitate certain looks are. I ponder things such as: "Should I place an image in a `<div>` and have it fill the whole space or should I set the `background-image` of the `<div>` instead? Does it matter?" Although I can attribute this to my lack of UI design experience, the learning curve does seem steeper than I originally had thought. I'll probably have to learn what the goto Semantic classes are depending on the need of the webpage before I start feeling comfortable and not constantly refer back to old work or examples. 
 
-Though it cannot be helped, I dislike that the majority of tags end up being a `<div>`. For me, this makes it harder to understand what is happening at a glance since all the code seems to blend together incoherently.
+Though it cannot be helped, I dislike that the majority of tags end up being a `<div>`. For me, this makes it harder to understand what is happening at a glance since all the code seems to blend together incoherently, especially without proper formatting. 
+
+Comparing this experience against debugging code, I would rather debug code.
