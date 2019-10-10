@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: How do I Center this Text?
+title: Web Development is Easy They Said
 # All dates must be YYYY-MM-DD format!
 date: 2019-10-09
 labels:
@@ -18,7 +18,7 @@ labels:
 ## Why Learn UI Design?
 Being able to design and implement a user interface (UI) is a skill I think every programmer who wants to be a software engineer should have at least some experience with. Although it may not be one's programming focus, it's still an important component of a finished product that one should be aware about. After all, if the users can't navigate a product's UI easily or efficiently, they will instead opt for one that checks those boxes whilst retaining the same feature set, leading to wasted time for both the developer and the user. 
 
-## My First bout with a CSS Framework and UI Design
+## My First Bout with a CSS Framework and UI Design
 I was excited upon first hearing that we were to learn a CSS framework, thus streamlining the creation of a website's UI. Prior to using Semantic UI, my CSS experience was limited to doing extremely basic tasks such as changing colors, fonts, or centering an individual item. Thus, Semantic UI is my first step into UI design. I hoped that I could learn how to use Semantic and incorporate what I learned into a work project in need of a facelift. 
 
 However, I haven't had the smoothest experience with learning how to use Semantic. When trying to replicate the layout of a pre-existing website, I find myself unsure of what the best ways to imitate certain looks are. I ponder things such as: "Should I place an image in a `<div>` and have it fill the whole space or should I set the `background-image` of the `<div>` instead? Does it matter?" Although I can attribute this to my lack of UI design experience, the learning curve does seem steeper than I originally had thought. I'll probably have to learn what the goto Semantic classes are depending on the need of the webpage before I start feeling comfortable and not constantly refer back to old work or examples. 
