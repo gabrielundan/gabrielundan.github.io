@@ -1,23 +1,30 @@
 ---
 layout: project
 type: project
-image: images/lrc.png
-title: Tutoring ICS Students
-permalink: projects/tutoring
-# All dates must be YYYY-MM-DD format!
-date: 2017-01-17
+image: images/books-for-bows-logo.png
+title: Books for Bows App 
+permalink: projects/booksforbows
+date: 2019-12-17
 labels:
-  - Tutor
-  - ICS
-  - Java
-  - C/C++
-summary: Serving as a tutor for ICS 111, ICS 211, ICS212, and EE160
+  - HTML/CSS
+  - Software Engineering 
+  - JavaScript
+  - Mongo DB
+  - Meteor
+  - React
+summary: Developing an app to encourage and facilitate the trading of books between college students.
 ---
 
-## My Role
+## Project Overview
+Books for Bows is a group developed web application that was developed to make the process of finding affordable easier for University of Hawaii at Manoa (UHM) students. To do this, the app focuses on facilitating the buying and selling of textbooks in between students. Its features include users being able to see and search through what textbooks others have put up for sale, as well as list their own books. Users also get additional information such as book previews to make sure the user is creating a listing with the correct book. UHM courses that employ the use of the viewed textbook is also shown.  
 
-I was a tutor at Leeward Community College's (LCC) Learning and Resource Center (LRC) for almost 2 years (Jan 2017 - Dec 2018). When I was first asked to be an ICS tutor, I took it up because I didn't want to be stagnant with my programming skills. At the time, I was unable to take any additional ICS courses involving programming until I am able to attend UH Manoa. So, instead of going semesters without programming and having my knowledge deteriorate, I decided to put it to use and help other students who needed help coding. 
+For more details on my groups app, please refer to [the Books for Bows github.io page](https://books-for-bows.github.io/).
+
+## My Role
+Within the Books for Bows team, my contributions were focused on developing the functionality of the app. For example, a few of the things I worked on include creating a functional search bar and creating React Components that correctly display data from a Mongo Database, as well as manipulate that data. The main pages I worked on were the marketplace page which lists displays all unique listings (on a per book basis) as a card, and the shelf page, which lists all the available listings for the selected book. I preferred doing back-end work and other work similar to this rather than creating and implementing design elements.  
+
+<img class="ui medium right floated rounded image" src="../images/books-for-bows-marketplace.png">*Marketplace Page Example*
+<img class="ui medium right floated rounded image" src="../images/books-for-bows-shelf.png">*Shelf Page Example*
 
 ## What I Learned
-
-Through this experience, I feel that I have improved in becoming more articulate and helping people approach a problem. However, I still would not consider myself to be particularly good at either, they were necessary skills needed to be efficient at what I did. In order for get someone to understand a topic to a greater degree, I find it best to offer them an alternate description or perspective, or break it down in a way they may have not yet considered. 
+Prior to this experience I haven't developed an web-application from the ground up before -- I had only implemented changed to a pre-existing one, so this is a new experience for me. 
