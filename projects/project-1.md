@@ -10,7 +10,7 @@ labels:
   - PHP
   - Vulnerability Scanning
   - Website
-summary: I maintain and update UHM's OpenVAS site at https://openvas.hawaii.edu. (Not accessible outside of ITC network).
+summary: I maintain and update UHM's OpenVAS site at https://openvas.hawaii.edu. (May not be accessible outside of ITC network).
 ---
 ## What is OpenVAS
 
@@ -22,7 +22,7 @@ The collective OpenVAS package includes its own user interface to start and mana
 
 ## My Role
 
-I was not involved with the creation of this interface. Instead, I have been tasked with maintaining its code the server it runs on whenever something may break or if a new feature must be added. For instance just recently I was tasked with getting the interface to communicate with two seperate scanners and have them balance the workload since many scans need to run during this time of year. For each change I'm expected to implement, I must first test it on a development server and confirm it works before copying the same thing to the production server 
+I was not involved with the creation of this interface. Instead, I have been tasked with maintaining its code the server it runs on whenever something may break or if a new feature must be added. For instance just recently I was tasked with getting the interface to communicate with two separate scanners and have them balance the workload since many scans need to run during this time of year. For each change I'm expected to implement, I must first test it on a development server and confirm it works before copying the same thing to the production server 
 
 I am also tasked to do a rewrite and improve this interface since the code was not very well put together by the original developer. Both the PHP code and the design were poor. Comments were scarce, the naming of variables was confusing and the database design could be better. 
 
@@ -34,7 +34,7 @@ Documentation and writing clean code is very important. Taking some time to take
 
 ## Source Code
 
-I am unable to share the source code for the custom interface I'm in charge of maintaing as it is a private repository. 
+I am unable to share the source code for the custom interface I'm in charge of maintaining as it is a private repository. 
 
 ## Screenshots of OpenVAS Site
 IPs have been blurred for privacy purposes.
