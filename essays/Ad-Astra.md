@@ -5,7 +5,11 @@ title: Ad-Astra
 # All dates must be YYYY-MM-DD format!
 date: 2021-10-14
 labels:
-  - Javascript
+  - Meteor
+  - React
+  - MongoDB
+  - Bootstrap 4
+  - AWS
 ---
 
 ## Links
